@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-Daniel/static/css/main.b7965308.chunk.css",
-    "main.js": "/Personal-Portfolio-Daniel/static/js/main.e8dd5a68.chunk.js",
-    "main.js.map": "/Personal-Portfolio-Daniel/static/js/main.e8dd5a68.chunk.js.map",
+    "main.js": "/Personal-Portfolio-Daniel/static/js/main.6cedc206.chunk.js",
+    "main.js.map": "/Personal-Portfolio-Daniel/static/js/main.6cedc206.chunk.js.map",
     "runtime-main.js": "/Personal-Portfolio-Daniel/static/js/runtime-main.1b3017d2.js",
     "runtime-main.js.map": "/Personal-Portfolio-Daniel/static/js/runtime-main.1b3017d2.js.map",
     "static/css/2.451bf2e4.chunk.css": "/Personal-Portfolio-Daniel/static/css/2.451bf2e4.chunk.css",
-    "static/js/2.6a04a4f4.chunk.js": "/Personal-Portfolio-Daniel/static/js/2.6a04a4f4.chunk.js",
-    "static/js/2.6a04a4f4.chunk.js.map": "/Personal-Portfolio-Daniel/static/js/2.6a04a4f4.chunk.js.map",
+    "static/js/2.1e92879d.chunk.js": "/Personal-Portfolio-Daniel/static/js/2.1e92879d.chunk.js",
+    "static/js/2.1e92879d.chunk.js.map": "/Personal-Portfolio-Daniel/static/js/2.1e92879d.chunk.js.map",
     "index.html": "/Personal-Portfolio-Daniel/index.html",
-    "precache-manifest.0895f480857f8028ccc68b6ccab62042.js": "/Personal-Portfolio-Daniel/precache-manifest.0895f480857f8028ccc68b6ccab62042.js",
+    "precache-manifest.7e129380114d31baa48d330251625c68.js": "/Personal-Portfolio-Daniel/precache-manifest.7e129380114d31baa48d330251625c68.js",
     "service-worker.js": "/Personal-Portfolio-Daniel/service-worker.js",
     "static/css/2.451bf2e4.chunk.css.map": "/Personal-Portfolio-Daniel/static/css/2.451bf2e4.chunk.css.map",
     "static/css/main.b7965308.chunk.css.map": "/Personal-Portfolio-Daniel/static/css/main.b7965308.chunk.css.map",
-    "static/js/2.6a04a4f4.chunk.js.LICENSE.txt": "/Personal-Portfolio-Daniel/static/js/2.6a04a4f4.chunk.js.LICENSE.txt",
-    "static/js/main.e8dd5a68.chunk.js.LICENSE.txt": "/Personal-Portfolio-Daniel/static/js/main.e8dd5a68.chunk.js.LICENSE.txt",
+    "static/js/2.1e92879d.chunk.js.LICENSE.txt": "/Personal-Portfolio-Daniel/static/js/2.1e92879d.chunk.js.LICENSE.txt",
+    "static/js/main.6cedc206.chunk.js.LICENSE.txt": "/Personal-Portfolio-Daniel/static/js/main.6cedc206.chunk.js.LICENSE.txt",
     "static/media/DanielP.png": "/Personal-Portfolio-Daniel/static/media/DanielP.510540a7.png",
     "static/media/OOO-Demand.png": "/Personal-Portfolio-Daniel/static/media/OOO-Demand.1c6f0557.png",
     "static/media/aiswitch.png": "/Personal-Portfolio-Daniel/static/media/aiswitch.f56961d4.png",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.1b3017d2.js",
     "static/css/2.451bf2e4.chunk.css",
-    "static/js/2.6a04a4f4.chunk.js",
+    "static/js/2.1e92879d.chunk.js",
     "static/css/main.b7965308.chunk.css",
-    "static/js/main.e8dd5a68.chunk.js"
+    "static/js/main.6cedc206.chunk.js"
   ]
 }
