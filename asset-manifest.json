@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-Daniel/static/css/main.b7965308.chunk.css",
+    "main.js": "/Personal-Portfolio-Daniel/static/js/main.e8dd5a68.chunk.js",
+    "main.js.map": "/Personal-Portfolio-Daniel/static/js/main.e8dd5a68.chunk.js.map",
+    "runtime-main.js": "/Personal-Portfolio-Daniel/static/js/runtime-main.1b3017d2.js",
+    "runtime-main.js.map": "/Personal-Portfolio-Daniel/static/js/runtime-main.1b3017d2.js.map",
+    "static/css/2.451bf2e4.chunk.css": "/Personal-Portfolio-Daniel/static/css/2.451bf2e4.chunk.css",
+    "static/js/2.6a04a4f4.chunk.js": "/Personal-Portfolio-Daniel/static/js/2.6a04a4f4.chunk.js",
+    "static/js/2.6a04a4f4.chunk.js.map": "/Personal-Portfolio-Daniel/static/js/2.6a04a4f4.chunk.js.map",
+    "index.html": "/Personal-Portfolio-Daniel/index.html",
+    "precache-manifest.0895f480857f8028ccc68b6ccab62042.js": "/Personal-Portfolio-Daniel/precache-manifest.0895f480857f8028ccc68b6ccab62042.js",
+    "service-worker.js": "/Personal-Portfolio-Daniel/service-worker.js",
+    "static/css/2.451bf2e4.chunk.css.map": "/Personal-Portfolio-Daniel/static/css/2.451bf2e4.chunk.css.map",
+    "static/css/main.b7965308.chunk.css.map": "/Personal-Portfolio-Daniel/static/css/main.b7965308.chunk.css.map",
+    "static/js/2.6a04a4f4.chunk.js.LICENSE.txt": "/Personal-Portfolio-Daniel/static/js/2.6a04a4f4.chunk.js.LICENSE.txt",
+    "static/js/main.e8dd5a68.chunk.js.LICENSE.txt": "/Personal-Portfolio-Daniel/static/js/main.e8dd5a68.chunk.js.LICENSE.txt",
+    "static/media/DanielP.png": "/Personal-Portfolio-Daniel/static/media/DanielP.510540a7.png",
+    "static/media/OOO-Demand.png": "/Personal-Portfolio-Daniel/static/media/OOO-Demand.1c6f0557.png",
+    "static/media/aiswitch.png": "/Personal-Portfolio-Daniel/static/media/aiswitch.f56961d4.png",
+    "static/media/basecampclimbing.png": "/Personal-Portfolio-Daniel/static/media/basecampclimbing.5dd99c60.png",
+    "static/media/blogg.png": "/Personal-Portfolio-Daniel/static/media/blogg.6326b03b.png",
+    "static/media/boarddirector.png": "/Personal-Portfolio-Daniel/static/media/boarddirector.81776538.png",
+    "static/media/dafisha.png": "/Personal-Portfolio-Daniel/static/media/dafisha.e0607cf7.png",
+    "static/media/livesmart.png": "/Personal-Portfolio-Daniel/static/media/livesmart.004e08e3.png",
+    "static/media/ln2x.png": "/Personal-Portfolio-Daniel/static/media/ln2x.bad63733.png",
+    "static/media/r1.png": "/Personal-Portfolio-Daniel/static/media/r1.f44350d8.png",
+    "static/media/reservation.png": "/Personal-Portfolio-Daniel/static/media/reservation.84c27bb5.png",
+    "static/media/rideto.png": "/Personal-Portfolio-Daniel/static/media/rideto.2c249a2b.png",
+    "static/media/savingschampion.png": "/Personal-Portfolio-Daniel/static/media/savingschampion.24a59637.png",
+    "static/media/shake.svg": "/Personal-Portfolio-Daniel/static/media/shake.e324d300.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3017d2.js",
+    "static/css/2.451bf2e4.chunk.css",
+    "static/js/2.6a04a4f4.chunk.js",
+    "static/css/main.b7965308.chunk.css",
+    "static/js/main.e8dd5a68.chunk.js"
+  ]
+}
