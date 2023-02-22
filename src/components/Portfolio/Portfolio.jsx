@@ -33,8 +33,7 @@ const Portfolio = ({ projects }) => {
               </div>
               <div className="right">
                 {item?.repositoryUrl !== "private" ? (
-                  // <a href={item?.repositoryUrl} target="_blank" rel="">
-                  <a href='/#'>
+                  <a>
                     <FontAwesomeIcon
                       icon={faGithubSquare}
                       size="2x"
@@ -44,7 +43,7 @@ const Portfolio = ({ projects }) => {
                     />
                   </a>
                 ) : (
-                  <a href="/#">
+                  <a href="#_" target="_blank">
                     <FontAwesomeIcon
                       icon={faUserLock}
                       size="2x"
@@ -55,9 +54,7 @@ const Portfolio = ({ projects }) => {
                   </a>
                 )}
 
-                <a
-                  href={item?.liveUrl || '/#'}
-                >
+                <a href={item.liveUrl} target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon
                     icon={faExternalLinkSquareAlt}
                     size="2x"
